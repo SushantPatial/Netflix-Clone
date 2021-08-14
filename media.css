@@ -1,0 +1,359 @@
+      
+      @media screen and (max-width: 970px) 
+      {
+        .logo 
+        {
+          width:115px !important;
+          margin-left: -10px !important;
+        }
+        #lang
+        {
+          margin-right: 24px !important;
+          margin-top: 3px !important
+        }
+        #sign-in
+        {
+          margin-right: 45px !important;
+          margin-top: 2px !important;
+        }
+        .container
+        {
+          max-width:500px !important;
+        }
+        h5 
+        {
+          font-size:22px !important;
+          margin-bottom:10px !important;
+          margin-top: 15px !important;
+        }
+        #get-started 
+        {
+          font-size:15px !important;
+          margin-top: 7px !important;
+          padding:9px 20px 9px 20px !important;
+          border-radius: 2px;
+        }
+        #email
+        {
+          max-width: 105% !important;
+          padding:17px 310px 17px 10px !important;
+        }
+
+        .odd-section
+        {
+          flex-direction: column;
+          text-align: center;
+        }
+        .even-section
+        {
+          flex-direction: column-reverse;
+          text-align: center;
+        }
+        .half-div
+        {
+          width: 90% !important;
+          margin-top: 8%;
+        }
+        .left-div
+        {
+          margin-left: 0 !important;
+        }
+        .right-div
+        {
+          margin-right: 0 !important;
+        }
+        .section h1
+        {
+          font-size:38px !important;
+        }
+        .section h4
+        {
+          font-size:19px !important;
+        }
+        #tv
+        {
+          margin-top: -10% !important;
+          margin-left: 0 !important;
+          max-width: 600px !important;
+        }
+        #mobile
+        {
+          margin-top: -14% !important;
+          max-width: 600px !important;
+          right: 10% !important;
+        }
+        #multiple
+        {
+          margin-top:-12% !important;
+          margin-left: 2% !important;
+          max-width: 610px !important;
+          margin-bottom: 12% !important;
+        }
+        #kids
+        {
+          margin-top:-8% !important;
+          max-width:590px !important;
+          margin-left: 0 !important;
+          margin-bottom:12% !important;
+        }
+
+        .faq-section
+        {
+          padding-left: 9% !important;
+          padding-right: 9% !important;
+        }
+        #accordion
+        {
+          margin-top: 10px !important;
+        }
+        .card-header
+        {
+          height: 55px !important;
+          margin-left:-10px;
+        }
+        .card-body
+        {
+          font-size:19px !important;
+          margin-left:3px !important;
+        }
+        .btn
+        {
+          font-size: 19px !important;
+          margin-top: -9px !important;
+        }
+        .plus-sign
+        {
+          font-size: 44px !important;
+          margin-top:-22px !important;
+          margin-bottom:-22px !important;
+        }
+
+        .container3
+        {
+          margin-top: 4px !important;
+          max-width: 500px !important;
+        }
+      }
+
+
+      @media screen and (max-width: 1200px) and (min-width: 970px) 
+      {
+        #tv-video
+        {
+          max-width: 65% !important; 
+        }
+      }
+
+      @media screen and (max-width: 970px) and (min-width: 730px) 
+      {
+        #tv-video
+        {
+          top: 25% !important;
+          left: 49% !important;
+          transform: translate(-49%, -50%);
+          width: 435px !important;
+        }
+      }
+
+      @media screen and (max-width: 730px)  and (min-width: 636px)
+      {
+        #tv-video
+        {
+          top: 26% !important;
+          left: 49% !important;
+          transform: translate(-49%, -50%);
+          width: 65% !important;
+        }
+      }
+      
+      @media screen and (max-width: 636px)
+      {
+        #tv-video
+        {
+          right: 17% !important;
+          top: -15px !important;
+          max-width: 66% !important;
+        }
+      }
+
+      @media screen and (max-width: 970px) and (min-width: 710px)
+      {
+        #multiple-video
+        {
+          top: 12% !important;
+          left: 50% !important;
+          transform: translate(-51%, -50%);
+          width: 390px !important;
+        }
+      }
+
+      @media screen and (max-width: 710px)
+      {
+        #multiple-video
+        {
+          left: 21% !important;
+          top: -9% !important;
+          max-width: 70% !important;
+        }
+      }
+
+
+      @media screen and (max-width: 740px)
+      {
+        h5
+        {
+          font-size:18px !important;
+        }
+        #email
+        {
+          font-size:13px !important;
+          height: 47px !important; 
+        }
+      }
+
+      
+      @media screen and (max-width: 550px)
+      {
+        #top-section
+        {
+          height: 550px !important;
+        }
+        .logo 
+        {
+          width:95px !important;
+          margin-left: -30px !important;
+        }
+        .form-inline #lang
+        {
+          padding:2px 25px 2px 15px !important;
+          background-position-y: -2px !important;
+          margin-right: 12px !important;
+        }
+        #sign-in
+        {
+          padding:3px 8px 3px 8px !important;
+          font-size: 14px !important;
+          margin-right: 26px !important;
+        }
+        .container
+        {
+          width:82% !important;
+          top:180px !important;
+        }
+        .container2
+        {
+          max-width: 490px !important;
+          top:172px !important;
+        }
+        .container2 h1
+        {
+          font-size:27px !important;
+        }
+        .container2 h4
+        {
+          font-size:18px !important;
+        }
+        h5 
+        {
+          margin-top: 0px !important;
+        }
+        #get-started 
+        {
+          margin-top: 9px !important;
+          margin-bottom:14px !important;
+        }
+        #email
+        {
+          max-width: 100% !important;
+          padding:17px 0px 17px 10px !important;
+        }
+
+        .section h1
+        {
+          margin-top: 6px;
+          font-size:25px !important;
+        }
+        .section h4
+        {
+          font-size:17px !important;
+          line-height:24px !important;
+          margin-top:10px !important;
+        }
+        #tv
+        {
+          width:100% !important;
+          margin-top: -8% !important;
+          margin-bottom: 13% !important;
+        }
+        #tv-video
+        {
+          right: 14% !important;
+          top: -1px !important;
+          max-width: 73% !important;
+        }
+        #mobile
+        {
+          margin-top: -19% !important;
+          margin-bottom: 4%;
+          width:100% !important;
+          right: 20% !important;
+        }
+        #multiple
+        {
+          margin-top:-11% !important;
+          margin-left: 0 !important;
+          width:102% !important;
+          margin-bottom: 13% !important;
+        }
+        #multiple-video
+        {
+          left: 19% !important;
+          top: -6% !important;
+          width: 61% !important;
+        }
+        #kids
+        {
+          margin-top:-6% !important;
+          width: 100% !important;
+          margin-bottom:12% !important;
+        }
+
+        .faq-section
+        {
+          margin-top:40px !important;
+          padding-left: 0% !important;
+          padding-right: 0% !important;
+          
+        }
+        #accordion
+        {
+          margin-top: 4px !important;
+        }
+        .card-header
+        {
+          height: 50px !important;
+          margin-left:-12px !important;
+        }
+        .card-body
+        {
+          font-size:17px !important;
+          margin-left:0px !important;
+        }
+        .btn
+        {
+          font-size: 17px !important;
+          margin-top: -16px !important;
+        }
+        .plus-sign
+        {
+          font-size: 37px !important;
+          margin-top:-17px !important;
+          margin-bottom:-17px !important;
+        }
+
+        .container3
+        {
+          margin-top:12px !important;
+          width:80% !important;
+        }
+      }
