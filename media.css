@@ -1,4 +1,43 @@
-      
+      @media screen and (max-width: 1010px)
+      {
+        #bottom-lang .lang
+        {
+          margin-top:130px !important;
+        }
+      }
+
+      @media screen and (max-width: 765px)
+      {
+        #bottom-lang .lang
+        {
+          margin-top: 250px !important;
+        }
+      }
+
+      @media screen and (max-width: 505px)
+      {
+        #bottom-lang .lang
+        {
+          margin-top: 270px !important;
+        }
+      }
+
+      @media screen and (max-width: 441px)
+      {
+        #bottom-lang .lang
+        {
+          margin-top: 300px !important;
+        }
+      }
+
+      @media screen and (max-width: 357px)
+      {
+        #bottom-lang .lang
+        {
+          margin-top: 350px !important;
+        }
+      }
+
       @media screen and (max-width: 970px) 
       {
         .logo 
@@ -6,7 +45,7 @@
           width:115px !important;
           margin-left: -10px !important;
         }
-        #lang
+        .lang
         {
           margin-right: 24px !important;
           margin-top: 3px !important
@@ -223,7 +262,7 @@
           width:95px !important;
           margin-left: -30px !important;
         }
-        .form-inline #lang
+        .form-inline .lang
         {
           padding:2px 25px 2px 15px !important;
           background-position-y: -2px !important;
